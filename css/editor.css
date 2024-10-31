@@ -1,0 +1,10 @@
+.wp-block-oc-soft-image-slider > div.slide-image-root {
+  position: relative;
+  width: 100%;
+}
+
+.components-panel__row button.oc-command-button {
+  margin-left: auto;
+}
+
+/*# sourceMappingURL=editor.css.map */

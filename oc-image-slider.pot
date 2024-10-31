@@ -1,0 +1,272 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-06 12:58+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: js/oc-image-slider-editor.js:2186
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/Edit.kt:194
+msgid "Page Color"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:2209
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/Edit.kt:209
+msgid "Control Color 1"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:2232
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/Edit.kt:224
+msgid "Control Color 2"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:2258
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/Edit.kt:234
+msgid "Color"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:2350
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/Edit.kt:316
+msgid "Images"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:2387
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/Edit.kt:303
+msgid "Drop images or select files from your library"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:2880
+#: js/oc-image-slider-editor.js:3052
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/EditHeight.kt:58
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/EditWidth.kt:88
+msgid "Use fixed values"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:2906
+#: js/oc-image-slider-editor.js:3104
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/EditHeight.kt:78
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/EditWidth.kt:115
+msgid "Desktop"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:2931
+#: js/oc-image-slider-editor.js:3129
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/EditHeight.kt:90
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/EditWidth.kt:127
+msgid "Tablet"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:2953
+#: js/oc-image-slider-editor.js:3154
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/EditHeight.kt:102
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/EditWidth.kt:139
+msgid "Mobile"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:2963
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/EditHeight.kt:52
+msgid "Height"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3075
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/EditWidth.kt:99
+msgid "Relative"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3164
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/EditWidth.kt:83
+msgid "Width"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3219
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:54
+msgid "Effect type"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3256
+#: js/oc-image-slider-editor.js:3478
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:95
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:333
+msgid "Fade"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3264
+#: js/oc-image-slider-editor.js:3533
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:103
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:376
+msgid "Slide"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3272
+#: js/oc-image-slider-editor.js:3588
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:111
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:420
+msgid "Push"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3280
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:119
+msgid "Rectangles"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3288
+#: js/oc-image-slider-editor.js:4209
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:127
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:789
+msgid "Squares"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3296
+#: js/oc-image-slider-editor.js:4286
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:135
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:886
+msgid "Turning"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3468
+#: js/oc-image-slider-editor.js:3523
+#: js/oc-image-slider-editor.js:3578
+#: js/oc-image-slider-editor.js:4276
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:337
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:380
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:424
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:890
+msgid "Duration (msec)"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3820
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:579
+msgid "Rows"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3830
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:589
+msgid "Columns"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3840
+#: js/oc-image-slider-editor.js:4149
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:601
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:803
+msgid "Column as major"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3848
+#: js/oc-image-slider-editor.js:4157
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:608
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:809
+msgid "Reverse major"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3856
+#: js/oc-image-slider-editor.js:4165
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:614
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:815
+msgid "Reverse minor"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3864
+#: js/oc-image-slider-editor.js:4173
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:621
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:822
+msgid "Fragment right to left"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3872
+#: js/oc-image-slider-editor.js:4181
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:628
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:829
+msgid "Fragment bottom to top"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3880
+#: js/oc-image-slider-editor.js:4189
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:635
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:836
+msgid "Duration 1 (msec)"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3890
+#: js/oc-image-slider-editor.js:4199
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:645
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:846
+msgid "Duration 2 (msec)"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:3900
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:575
+msgid "Retangles"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:4139
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/ImageEffect.kt:793
+msgid "Size"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:4346
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/PagingControl.kt:58
+msgid "Stop Duration (msec)"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:4370
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/PagingControl.kt:68
+msgid "Auto paging"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:4393
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/PagingControl.kt:78
+msgid "Endless"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:4425
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/PagingControl.kt:91
+msgid "Auto backward"
+msgstr ""
+
+#: js/oc-image-slider-editor.js:4434
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/jsEditor/kotlin/net/oc_soft/components/PagingControl.kt:49
+msgid "Paging"
+msgstr ""
+
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/php/gen-index.sh:65
+msgid "Plugin Name"
+msgstr ""
+
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/php/gen-index.sh:66
+msgid "Description"
+msgstr ""
+
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/php/gen-index.sh:67
+msgid "Author"
+msgstr ""
+
+#: /home/toshiyuki/projects/wp-dev/oc-image-slider/src/php/gen-index.sh:68
+msgid "Version"
+msgstr ""
+
+#: block-json.gradle:25
+msgctxt "block description"
+msgid "You can create a frame changing contents every few seconds"
+msgstr ""
+
+#: block-json.gradle:32
+msgctxt "block title"
+msgid "Image Slider"
+msgstr ""
+
+#: block-json.gradle:40
+msgctxt "block keyword"
+msgid "slides, images, slider, image, block, editor"
+msgstr ""

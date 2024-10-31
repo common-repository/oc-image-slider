@@ -1,0 +1,27 @@
+.wp-block-oc-soft-image-slider .paging-controller {
+  display: grid;
+  grid-template-columns: 30px 1fr 30px;
+}
+.wp-block-oc-soft-image-slider .paging-controller > * {
+  height: 100%;
+}
+.wp-block-oc-soft-image-slider .paging-controller > .command {
+  display: flex;
+  align-items: center;
+}
+.wp-block-oc-soft-image-slider .paging-controller > .command:first-child {
+  justify-content: start;
+}
+.wp-block-oc-soft-image-slider .paging-controller > .command:last-child {
+  justify-content: end;
+}
+.wp-block-oc-soft-image-slider .paging-controller svg.forward, .wp-block-oc-soft-image-slider .paging-controller svg.backward {
+  width: 24px;
+}
+
+div.wp-block-oc-soft-image-slider figure.wp-block-image,
+div.wp-block-oc-soft-image-slider div.paging-setting {
+  display: none;
+}
+
+/*# sourceMappingURL=oc-image-slider.css.map */
